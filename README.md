@@ -1,7 +1,6 @@
 # 🌟 TRAPPIST-1e Base v1.0.0
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trappist1e.streamlit.app)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/trappist1e?style=social)](https://github.com/YOUR_USERNAME/trappist1e)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![JWST Data](https://img.shields.io/badge/Data-JWST%20%2F%20NASA-purple)](https://webb.nasa.gov/)
@@ -68,3 +67,17 @@
 If you find TRAPPIST-1e Base useful or just want to support future space data projects:
 
 <a href="https://buymeacoffee.com/stargazex" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" > </a>
+
+exoplanet
+trappist-1e
+nasa
+jwst
+space-exploration
+streamlit
+python
+data-science
+astrobiology
+exoplanet-base
+site-selection
+folium
+plotly
